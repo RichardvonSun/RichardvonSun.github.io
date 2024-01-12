@@ -13,6 +13,7 @@ I am committed to studying urban sustainable development from different aspects 
 Research Interests
 ======
 Urban Resilience, Low Carbon economy, Green Finance, Urban Shrinkage, Industrial Ecology, Low Carbon Behavior, Carbon Market, Digital Economy, Energy Economy
+
 Publication
 ======
 Coupling and coordinated development of low-carbon economy and green finance: an empirical study of the Yangtze River Delta region in China
@@ -25,6 +26,7 @@ Spatio-temporal evolution and gravity center change of carbon emissions in the G
 Heliyon 9 (6)
 Impact of new energy vehicle development on china’s crude oil imports: an empirical analysis
 World Electric Vehicle Journal 14 (2), 46
+
 Ongoing Research
 ------
 The impact of the digital economy on carbon emissions.
